@@ -1,0 +1,2 @@
+human=com.dust.service.impl.HumanHelloService
+dog=com.dust.service.impl.DogHelloService

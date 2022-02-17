@@ -1,0 +1,1 @@
+timerFilter=com.dust.service.filter.DubboInvokeFilter
